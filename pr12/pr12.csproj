@@ -10,11 +10,13 @@
   <ItemGroup>
     <None Remove="Images\Exit.png" />
     <None Remove="Images\Info.png" />
+    <None Remove="WEBPAGE.ICO" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Images\Exit.png" />
     <Resource Include="Images\Info.png" />
+    <Resource Include="WEBPAGE.ICO" />
   </ItemGroup>
 
 </Project>
